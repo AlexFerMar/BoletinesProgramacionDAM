@@ -220,3 +220,25 @@
 </details>
 </blockquote>
 </details>
+
+<details>
+<summary> <b>Segundo Trimestre</b> </summary>
+<blockquote>
+<details>
+<summary>Boletines</summary>
+
+<blockquote>
+<details>
+<summary>Boletin 18</summary>
+<ul>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/SegundoTrimestre/Boletin18">Ejercicio 1</a></li>
+</ul>
+</details>
+</blockquote>
+
+</details>
+  
+</blockquote>
+</details>
+
+
