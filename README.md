@@ -254,6 +254,18 @@
 </ul>
 </details>
 </blockquote>
+  
+  <blockquote>
+<details>
+<summary>Boletin 21</summary>
+<ul>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/SegundoTrimestre/Boletin21/Boletin21_1">Ejercicio 1</a></li>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/SegundoTrimestre/Boletin21/Boletin21_2">Ejercicio 2</a></li>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/SegundoTrimestre/Boletin21/Boletin21_3">Ejercicio 3</a></li>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/SegundoTrimestre/Boletin21/Boletin21_4">Ejercicio 4</a></li>
+</ul>
+</details>
+</blockquote>
 
 </details>
   
