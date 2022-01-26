@@ -1,6 +1,7 @@
 package com.company;
 
 import javax.swing.*;
+import LibreriaAlex.*;
 
 public class FuncionesArray {
 
@@ -29,18 +30,11 @@ public class FuncionesArray {
     }
 
 
-    public static String searchLetra(int resto){
+    public static char searchLetra(int resto){
 
-        String[] letras={"A","B","C","D","E","F","G","H","J","K","L","M","N","P","Q","R","S","T","V","W","X","Y","Z"};
-        int[] numeros={3,11,20,9,22,7,4,18,13,21,19,5,12,8,16,1,15,0,17,2,10,6,14};
+        char[] letras={'T','R','W','A','G','M','Y','F','P','D','X','B','N','J','Z','S','Q','V','H','L','C','K','E'};
 
-        String letra=null;
-        for (int i = 0; i < numeros.length; i++) {
-
-            if (resto==numeros[i]) letra = letras[i];
-        }
-
-        return  letra;
+        return  letras[resto];
     }
 
     public static void showMessage(String mensaje) {

@@ -11,7 +11,7 @@ public class Main {
         int resto=FuncionesArray.calculateResto(dni);
 
         //buscar letra
-        String letra=FuncionesArray.searchLetra(resto);
+        char letra=FuncionesArray.searchLetra(resto);
 
         FuncionesArray.showMessage("La letra del DNI '"+dni+"' es '"+letra+"', Con lo que el DNI completo seria: '"+dni+letra+"'");
 
