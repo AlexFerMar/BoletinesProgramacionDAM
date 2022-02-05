@@ -266,6 +266,28 @@
 </ul>
 </details>
 </blockquote>
+  
+<blockquote>
+<details>
+<summary>Boletin 22</summary>
+<ul>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/SegundoTrimestre/Boletin22">Ejercicio 1</a></li>
+</ul>
+</details>
+</blockquote>
+  
+<blockquote>
+<details>
+<summary>Boletin 23</summary>
+<ul>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/SegundoTrimestre/Boletin23">Ejercicio 1</a></li>
+</ul>
+</details>
+</blockquote>
+
+</details>
+  
+</blockquote>
 
 </details>
   
