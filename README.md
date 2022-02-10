@@ -298,7 +298,7 @@
 <details>
 <summary>Boletin24</summary>
 <ul>
-<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/SegundoTrimestre/ArrayListProductos">Ejercicio 1</a></li>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/SegundoTrimestre/Boletin24">Ejercicio 1</a></li>
 </ul>
 </details>
 </blockquote>
