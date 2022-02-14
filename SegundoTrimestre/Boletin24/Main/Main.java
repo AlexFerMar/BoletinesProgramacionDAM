@@ -1,4 +1,4 @@
-package com.company;
+package Main;
 
 import aplicacion.Aplicacion;
 import aplicacion.ArrayNullExeption;

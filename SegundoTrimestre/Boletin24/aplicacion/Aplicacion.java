@@ -1,6 +1,6 @@
 package aplicacion;
 
-import com.company.Libro;
+import Main.Libro;
 
 import java.util.ArrayList;
 
@@ -55,10 +55,15 @@ public class Aplicacion {
         }
         String codigo = Funciones.askString("Introduce el ISBN del libro");
 
-        int cantidad = Funciones.askInt("Introduce las unidades que desea del producto");
+        boolean control=true;
+        
         for (int i = 0; i < inventarioLibreria.size(); i++) {
 
             if (codigo.equals(inventarioLibreria.get(i).getIsbm())) {
+
+                int cantidad = Funciones.askInt("Introduce las unidades que desea del producto");
+
+                control=false;
 
                 if (inventarioLibreria.get(i).getUnidades() - cantidad < 0) {
 
@@ -83,6 +88,7 @@ public class Aplicacion {
                 break;
 
             }
+            if (control) Funciones.showMessage("El producto buscado no figura en la lista");
 
         }
 
