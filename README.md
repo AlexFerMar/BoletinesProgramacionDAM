@@ -327,7 +327,7 @@
 <details>
 <summary>Boletin Extra 1</summary>
 <ul>
-<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/SegundoTrimestre/ArrayListProductos">Ejercicio 1</a></li>
+<li><a href="">Ejercicio 1</a></li>
 </ul>
 </details>
 </blockquote>
