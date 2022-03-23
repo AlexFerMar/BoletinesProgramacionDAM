@@ -341,7 +341,35 @@
 
 </details>
 
+<details>
+<summary> <b>Tercer Trimestre</b> </summary>
+<blockquote>
+<details>
+<summary>Boletines</summary>
 
+<blockquote>
+<details>
+<summary>Boletin 26</summary>
+<ul>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/TercerTrimestre/Boletin26">Ejercicio 1</a></li>
+</ul>
+</details>
+</blockquote>
+  
+  
+  
+  
+  
+  
+
+</details>
+  
+
+  
+  
+  
+</blockquote>
+</details>
 
 </blockquote>
 </details>
