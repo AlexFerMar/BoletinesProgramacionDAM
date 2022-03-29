@@ -356,7 +356,14 @@
 </details>
 </blockquote>
   
-  
+<blockquote>
+<details>
+<summary>Boletin 27</summary>
+<ul>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/TercerTrimestre/Boletin27">Ejercicio 1</a></li>
+</ul>
+</details>
+</blockquote>  
   
   
   
