@@ -365,7 +365,15 @@
 </details>
 </blockquote>  
   
-  
+<blockquote>
+<details>
+<summary>Boletin 28</summary>
+<ul>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/TercerTrimestre/Boletin28/Boletin28_1">Ejercicio 1</a></li>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/TercerTrimestre/Boletin28/Boletin28_2">Ejercicio 2</a></li>
+</ul>
+</details>
+</blockquote>  
   
   
 
