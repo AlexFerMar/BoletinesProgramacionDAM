@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
  */
 public class Boletin29 extends javax.swing.JFrame {
 
-    DefaultTableModel model;
+    private DefaultTableModel model;
     
     public Boletin29() {
         
