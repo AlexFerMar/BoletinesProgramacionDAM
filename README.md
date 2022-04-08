@@ -313,28 +313,10 @@
 </ul>
 </details>
 </blockquote>
+ 
   
   
 
-
-</details>
-  
-<details>
-<summary>Boletines Extra</summary>
-
-
-<blockquote>
-<details>
-<summary>Boletin Extra 1</summary>
-<ul>
-<li><a href="">Ejercicio 1</a></li>
-</ul>
-</details>
-</blockquote>
-  
-  
-</details>
-</blockquote>
 </details>
   
 </blockquote>
@@ -384,10 +366,45 @@
 </details>
 </blockquote>
 
+  
+<blockquote>
+<details>
+<summary>Boletin 30</summary>
+<ul>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/TercerTrimestre/Boletin30">Ejercicio 1</a></li>
+</ul>
 </details>
+</blockquote>
+  
   
 
+</details>
   
+<details>
+<summary>Boletines Extra</summary>
+
+
+<blockquote>
+<details>
+<summary>Boletin Extra 1</summary>
+<ul>
+<li><a href="">Ejercicio 1</a></li>
+</ul>
+</details>
+</blockquote>
+
+  
+  
+  
+  
+
+</details>
+</blockquote>
+</details>
+  
+  
+  
+</details>
   
   
 </blockquote>
