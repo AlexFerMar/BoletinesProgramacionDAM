@@ -375,8 +375,16 @@
 </ul>
 </details>
 </blockquote>
+
   
-  
+<blockquote>
+<details>
+<summary>Boletin 32</summary>
+<ul>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/TercerTrimestre/Boletin32">Ejercicio 1</a></li>
+</ul>
+</details>
+</blockquote>
 
 </details>
   
