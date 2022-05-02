@@ -386,6 +386,29 @@
 </details>
 </blockquote>
 
+  
+<blockquote>
+<details>
+<summary>Boletin 33</summary>
+<ul>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/TercerTrimestre/Boletin33">Ejercicio 1</a></li>
+</ul>
+</details>
+</blockquote>
+  
+  
+<blockquote>
+<details>
+<summary>Boletin 34</summary>
+<ul>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/TercerTrimestre/Boletin34">Ejercicio 1</a></li>
+</ul>
+</details>
+</blockquote>
+  
+  
+  
+  
 </details>
   
 <details>
