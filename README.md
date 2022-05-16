@@ -407,6 +407,15 @@
 </blockquote>
   
   
+<blockquote>
+<details>
+<summary>Boletin 35</summary>
+<ul>
+<li><a href="https://github.com/AlexFerMar/BoletinesProgramacionDAM/tree/main/TercerTrimestre/Boletin35">Ejercicio 1</a></li>
+</ul>
+</details>
+</blockquote>
+  
   
   
 </details>
